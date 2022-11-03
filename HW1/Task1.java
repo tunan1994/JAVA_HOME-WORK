@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class home_work1 {
+public class Task1 {
   /// Вычисление треугольного числа:
   public static void main(String[] args) {
     Scanner in = new Scanner(System.in);
