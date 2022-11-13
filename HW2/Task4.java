@@ -25,6 +25,7 @@ public class Task4 {
             }
             array[i + 1] = value;
         }
+        System.out.println("Отсортированный массив: ");
         printArray(array);
         in.close();
     }
